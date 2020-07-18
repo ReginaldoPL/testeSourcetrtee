@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 gdgdgdgdgdgd
 
 teste commit
+=======
+gdgdgdgdgdgd
+
+sf
+sf
+dfg
+dg
+d
+g
+>>>>>>> e9e553e83d7ebb065bf94f4fa5800011470c0cb3
